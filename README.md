@@ -22,10 +22,10 @@ Building autonomous multi-agent systems, intelligent distributed platforms, and 
 
 ---
 
-## 🏢 Peak Frame Organization Activity & Fleet Infrastructure
+## 🏢 Peak Frame Organization & Fleet Infrastructure
 
 <p align="center">
-  <img src="assets/organization-activity.svg" width="100%" alt="Peak Frame Organization Activity & Fleet Infrastructure" />
+  <img src="assets/organization.svg" width="100%" alt="Peak Frame Private Limited — Enterprise Fleet & Infrastructure" />
 </p>
 
 ---
