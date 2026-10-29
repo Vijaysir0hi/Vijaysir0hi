@@ -39,7 +39,7 @@ Target milestone: **100 merged upstream pull requests** across world-class AI, d
 | Milestone | Progress | Status | Focus Repositories |
 | :--- | :--- | :--- | :--- |
 | **Batch 1 (PRs 1–5)** | 5 Submitted · 1 Merged Upstream | 🟢 Complete | `hslee16/Archy`, Python toolkits |
-| **Batch 2 (PRs 6–10)** | In Progress | 🟡 Active Hunting | AI Agent Orchestration, Graph Engine |
+| **Batch 2 (PRs 6–10)** | PR #6 Live (#620) | 🟡 Active Ingestion | `hslee16/Archy`, AI Agent Architecture |
 | **Target Goal** | **100 PRs** | ⏳ Dec 11, 2026 | Top-tier open-source ecosystem |
 
 ---
