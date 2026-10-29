@@ -14,53 +14,19 @@ Building autonomous multi-agent systems, intelligent distributed platforms, and 
 
 ---
 
-## 🏢 Peak Frame Organization Activity & Fleet Infrastructure
+## ⚡ Founder Progress & Engineering Architecture
 
-<details open>
-  <summary><b>📅 2026 Telemetry (Live / Active)</b></summary>
-  <p align="center">
-    <img src="assets/organization-activity.svg" width="100%" alt="Peak Frame Organization Activity 2026" />
-  </p>
-</details>
-
-<details>
-  <summary><b>📅 2025 Archive Telemetry</b></summary>
-  <p align="center">
-    <img src="assets/organization-activity-2025.svg" width="100%" alt="Peak Frame Organization Activity 2025 Archive" />
-  </p>
-</details>
-
-<details>
-  <summary><b>📅 2024 Foundation Archive</b></summary>
-  <p align="center">
-    <img src="assets/organization-activity-2024.svg" width="100%" alt="Peak Frame Organization Activity 2024 Archive" />
-  </p>
-</details>
+<p align="center">
+  <img src="assets/founder-activity.svg" width="100%" alt="Vijay Sirohi — Founder Progress & Engineering Architecture" />
+</p>
 
 ---
 
-## ⚡ Founder Progress & Engineering Architecture
+## 🏢 Peak Frame Organization Activity & Fleet Infrastructure
 
-<details open>
-  <summary><b>📅 2026 Architecture & Telemetry (Live / Active)</b></summary>
-  <p align="center">
-    <img src="assets/founder-activity.svg" width="100%" alt="Vijay Sirohi — Founder Activity & Architecture 2026" />
-  </p>
-</details>
-
-<details>
-  <summary><b>📅 2025 Architecture Archive</b></summary>
-  <p align="center">
-    <img src="assets/founder-activity-2025.svg" width="100%" alt="Vijay Sirohi — Founder Activity 2025 Archive" />
-  </p>
-</details>
-
-<details>
-  <summary><b>📅 2024 Foundation Architecture Archive</b></summary>
-  <p align="center">
-    <img src="assets/founder-activity-2024.svg" width="100%" alt="Vijay Sirohi — Founder Activity 2024 Archive" />
-  </p>
-</details>
+<p align="center">
+  <img src="assets/organization-activity.svg" width="100%" alt="Peak Frame Organization Activity & Fleet Infrastructure" />
+</p>
 
 ---
 
