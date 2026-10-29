@@ -30,14 +30,6 @@ Building autonomous multi-agent systems, intelligent distributed platforms, and 
 
 ---
 
-## 📊 Live Engineering Streak & Telemetry
-
-<p align="center">
-  <img src="assets/streak.svg" width="100%" alt="Continuous Engineering Streak Telemetry" />
-</p>
-
----
-
 ## 🛠️ Core Technology Stack
 
 - **Languages:** Python, TypeScript, JavaScript, SQL
