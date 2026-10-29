@@ -14,33 +14,23 @@ Building autonomous multi-agent systems, intelligent distributed platforms, and 
 
 ---
 
-## ⚡ Founder & Lead Architect Telemetry
-
-<p align="center">
-  <img src="assets/founder.svg" width="100%" alt="Vijay Sirohi — Founder & Lead Architect Telemetry" />
-</p>
-
----
-
-## 🏢 Peak Frame Corporate & Fleet Telemetry
+## 🏢 Peak Frame Organization Activity & Fleet Infrastructure
 
 <p align="center">
   <a href="https://github.com/Peak-Frame-Private-Limited">
-    <img src="assets/organization.svg" width="100%" alt="Peak Frame Private Limited — Enterprise Fleet & Infrastructure" />
+    <img src="assets/organization-activity.svg" width="100%" alt="Peak Frame Organization Activity & Infrastructure" />
   </a>
 </p>
 
 ---
 
-## 🎯 Anthropic 100-PR Open-Source Contributor Track
+## ⚡ Founder Progress & Engineering Architecture
 
-Target milestone: **100 merged upstream pull requests** across world-class AI, developer tooling, and distributed systems repositories before the **December 11, 2026** anniversary.
-
-| Milestone | Progress | Status | Focus Repositories |
-| :--- | :--- | :--- | :--- |
-| **Batch 1 (PRs 1–5)** | 5 Submitted · 1 Merged Upstream | 🟢 Complete | `hslee16/Archy`, Python toolkits |
-| **Batch 2 (PRs 6–10)** | PR #6 Live (#620) | 🟡 Active Ingestion | `hslee16/Archy`, AI Agent Architecture |
-| **Target Goal** | **100 PRs** | ⏳ Dec 11, 2026 | Top-tier open-source ecosystem |
+<p align="center">
+  <a href="https://github.com/Vijaysir0hi">
+    <img src="assets/founder-activity.svg" width="100%" alt="Vijay Sirohi — Founder Activity & Architecture" />
+  </a>
+</p>
 
 ---
 
