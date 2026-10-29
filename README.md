@@ -30,25 +30,11 @@ Building autonomous multi-agent systems, intelligent distributed platforms, and 
 
 ---
 
-## 📊 Live Activity & Engineering Telemetry
+## 📊 Live Engineering Streak & Telemetry
 
-<div align="center">
-
-<a href="https://github.com/Vijaysir0hi">
-  <img src="https://streak-stats.demolab.com?user=Vijaysir0hi&theme=dark&background=121314&border=2a2a2a&stroke=2a2a2a&ring=ff5900&fire=ff5900&currStreakNum=ff5900&sideNums=f8f6f0&sideLabels=c5c5c5&currStreakLabel=ff5900&dates=aaa" alt="Live Engineering Streak" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/Vijaysir0hi">
-  <img src="https://gh-stats.com/api?username=Vijaysir0hi&show_icons=true&bg_color=121314&text_color=f8f6f0&icon_color=ff5900&title_color=ff5900&border_color=2a2a2a" alt="Live Development Stats" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/Vijaysir0hi">
-  <img src="https://gh-stats.com/api/top-langs/?username=Vijaysir0hi&layout=compact&bg_color=121314&text_color=f8f6f0&title_color=ff5900&border_color=2a2a2a" alt="Live Language Distribution" />
-</a>
-
-</div>
+<p align="center">
+  <img src="assets/streak.svg" width="100%" alt="Continuous Engineering Streak Telemetry" />
+</p>
 
 ---
 
